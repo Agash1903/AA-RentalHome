@@ -1,0 +1,17 @@
+.background{
+    background-image: url(./images/receptionists-5975962_1920.jpg);
+    height: 100vh;
+    background-size: cover;
+    background-position: center;
+    margin-left: 10px;
+    background-position-x: center;
+   
+}
+h2{
+    color: gold;
+    font-family: 'Times New Roman', Times, serif;
+    
+}
+h2:hover{
+    color: red;
+}
